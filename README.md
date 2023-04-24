@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-(https://github.com/Alchemist0541/Donnuts/blob/main/main.png)
+- [maiun](https://github.com/Alchemist0541/Donnuts/blob/main/main.png)
 
 A few resources to get you started if this is your first Flutter project:
 
